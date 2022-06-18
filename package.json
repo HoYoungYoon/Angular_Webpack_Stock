@@ -1,0 +1,22 @@
+{
+  "name": "angular_webpack_stock",
+  "version": "1.0.0",
+  "description": "angular js webpack stock page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoYoungYoon/Angular_Webpack_Stock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoYoungYoon/Angular_Webpack_Stock/issues"
+  },
+  "homepage": "https://github.com/HoYoungYoon/Angular_Webpack_Stock#readme",
+  "dependencies": {
+    "webpack": "^4.46.0"
+  }
+}

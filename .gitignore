@@ -1,0 +1,17 @@
+/server/node_modules
+/mongo.lnk
+/util/AdminLTE-master
+/client/js/*.js
+/client/css
+/client/admin/core/*.js
+/.tmpuploadServer
+/dest
+/.tmpupload
+/node_modules
+/AdminClient/js/app_login_bundle.js
+/AdminClient/js/app_bundle.js
+/server/upload
+/server/sslcert
+/client/etc/kw/iframe.html
+.DS_Store
+.env
